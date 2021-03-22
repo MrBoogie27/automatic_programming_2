@@ -1,0 +1,16 @@
+2021-03-22 18:53:50,742 - INFO - Epoch : 0 Minibatch : 78 Loss : 1.17981
+2021-03-22 18:53:50,922 - INFO - Done with epoch 0.
+2021-03-22 18:54:30,131 - INFO - Epoch : 0 ValidationAccuracy : 0.000000.
+2021-03-22 18:54:30,131 - INFO - Epoch : 0 ValidationBest : 0.000000.
+2021-03-22 18:55:44,572 - INFO - Epoch : 1 Minibatch : 78 Loss : 1.12539
+2021-03-22 18:55:44,711 - INFO - Done with epoch 1.
+2021-03-22 18:56:23,829 - INFO - Epoch : 1 ValidationAccuracy : 0.000000.
+2021-03-22 18:57:38,129 - INFO - Epoch : 2 Minibatch : 78 Loss : 1.11636
+2021-03-22 18:57:38,267 - INFO - Done with epoch 2.
+2021-03-22 18:58:17,711 - INFO - Epoch : 2 ValidationAccuracy : 0.000000.
+2021-03-22 18:59:32,533 - INFO - Epoch : 3 Minibatch : 78 Loss : 1.11399
+2021-03-22 18:59:32,670 - INFO - Done with epoch 3.
+2021-03-22 19:00:11,899 - INFO - Epoch : 3 ValidationAccuracy : 0.000000.
+2021-03-22 19:01:27,562 - INFO - Epoch : 4 Minibatch : 78 Loss : 1.11062
+2021-03-22 19:01:27,698 - INFO - Done with epoch 4.
+2021-03-22 19:02:07,130 - INFO - Epoch : 4 ValidationAccuracy : 0.000000.
