@@ -62,7 +62,7 @@ def do_syntax_weighted_minibatch(model,
     loss.backward()
 
     # Return the value of the loss over the minibatch for monitoring
-    return loss.data[0]
+    return loss.data.item()
 
 def do_rl_minibatch(model,
                     # Source

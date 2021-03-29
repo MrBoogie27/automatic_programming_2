@@ -373,9 +373,9 @@ class MultiIOProgramDecoder(nn.Module):
             if len(new_inputs)==0:
                 # All of our beams are done
                 break
-            batch_inputs = torch.cat(new_inputs, 0).int()
-            batch_idx = torch.cat(new_batch_idx, 0).int()
-            parent_idxs = torch.cat(new_parent_idxs, 0).int()
+            batch_inputs = torch.cat(new_inputs, 0)
+            batch_idx = torch.cat(new_batch_idx, 0)
+            parent_idxs = torch.cat(new_parent_idxs, 0)
             batch_list_inputs = new_batch_list_inputs
             batch_state = (
                 dec_state[0].index_select(1, parent_idxs),
